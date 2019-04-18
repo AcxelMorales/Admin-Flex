@@ -1,0 +1,23 @@
+{
+  "name": "admin-flex",
+  "version": "1.0.0",
+  "description": "Administrador en FlexBox",
+  "main": "gulpfile.js",
+  "engines": {
+    "node": "10.14.0"
+  },
+  "scripts": {
+    "dev": "gulp watch"
+  },
+  "author": "Acxel Morales",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
